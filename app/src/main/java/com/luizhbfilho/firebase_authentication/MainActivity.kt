@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.luizhbfilho.firebase_authentication.ui.theme.FirebaseauthenticationTheme
+import com.luizhbfilho.firebase_authentication.theme.FirebaseauthenticationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
