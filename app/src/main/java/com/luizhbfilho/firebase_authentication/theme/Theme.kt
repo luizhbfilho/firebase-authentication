@@ -1,4 +1,4 @@
-package com.luizhbfilho.firebase_authentication.ui.theme
+package com.luizhbfilho.firebase_authentication.theme
 
 import android.app.Activity
 import android.os.Build
